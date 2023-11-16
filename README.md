@@ -33,4 +33,7 @@ circtools is a modular Python3 framework to unify several circRNA tools function
 2. circRNA primer design
 3. Processing Tools (e.g., FUCHS, DCC)
 
+## Citations 
+Jakobi, T., Uvarovskii, A., & Dieterich, C. (2019). circtools — a one-stop software solution for circular RNA research. Bioinformatics, 35(13), 2326-2328.
+
   
