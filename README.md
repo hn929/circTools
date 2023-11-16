@@ -1,6 +1,6 @@
 # circTools
 
-##Circular RNA 
+## Circular RNA 
 Circular RNA(circRNA) is a type of RNA molecule that forms a closed-loop structure, whereas traditional RNA molecules (e.g., mRNA, tRNA), have linear structures with distinct start and end points.
 
 Circular RNA is resistant to exonucleases(enzymes that function by removing nucleotides from the ends of RNA or DNA strands) and thus are less susceptible to degradation.
@@ -21,7 +21,7 @@ Circular RNA is highly specific for cell type and developmental stage referring 
 
 However, the vast majority of circRNA has an undetermined function. 
 
-##circtools
+## circtools
 Current software tools (e.g., DCC, circTest) predict circRNAs from raw sequencing data generating a list of potential circRNA candidates which depending on tissue and condition may contain hundreds to thousands of potential circRNAs. 
 
 circtools is a modular Python3 framework to unify several circRNA tools functionalities in single command line-driven software. 
